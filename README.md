@@ -1,2 +1,4 @@
 # Simple-lua-GUI
-simple lua gui for roblox scripts or smth
+Simple lua gui for roblox scripts or smth
+
+Replace every "scripthere" with the actual script
